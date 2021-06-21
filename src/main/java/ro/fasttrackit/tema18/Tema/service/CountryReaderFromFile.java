@@ -40,9 +40,6 @@ public class CountryReaderFromFile {
                 neighbours);
     }
 
-//    private static List<String> newNeighbours(String s){
-//        return Arrays.asList(s.split("~"));
-//    }
 
     private List<String> newNeighbours(String s) {
         String[] neighbours = s.split("~");
