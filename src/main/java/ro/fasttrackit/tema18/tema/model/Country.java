@@ -1,4 +1,4 @@
-package ro.fasttrackit.tema18.Tema.model;
+package ro.fasttrackit.tema18.tema.model;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -13,7 +13,9 @@ public class Country {
     private final String continent;
     private final List<String> neighbours = new ArrayList<>();
 
-    public Country(int id, String name, String capital, long population, long area, String continent, List<String> neighbours) {
+    public Country(int id, String name, String capital,
+                   long population, long area,
+                   String continent, List<String> neighbours) {
         this.id = id;
         this.name = name;
         this.capital = capital;

@@ -1,4 +1,4 @@
-package ro.fasttrackit.tema18.Tema;
+package ro.fasttrackit.tema18.tema;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

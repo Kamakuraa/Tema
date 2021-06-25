@@ -1,7 +1,7 @@
-package ro.fasttrackit.tema18.Tema.service;
+package ro.fasttrackit.tema18.tema.service;
 
 import org.springframework.stereotype.Service;
-import ro.fasttrackit.tema18.Tema.model.Country;
+import ro.fasttrackit.tema18.tema.model.Country;
 
 import java.util.ArrayList;
 import java.util.List;

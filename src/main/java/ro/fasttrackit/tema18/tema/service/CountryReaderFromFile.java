@@ -1,13 +1,12 @@
-package ro.fasttrackit.tema18.Tema.service;
+package ro.fasttrackit.tema18.tema.service;
 
 import org.springframework.stereotype.Component;
-import ro.fasttrackit.tema18.Tema.model.Country;
+import ro.fasttrackit.tema18.tema.model.Country;
 
 import java.io.BufferedReader;
 
 import java.io.FileReader;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 

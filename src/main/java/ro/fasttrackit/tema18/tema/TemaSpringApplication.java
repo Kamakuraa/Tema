@@ -1,4 +1,4 @@
-package ro.fasttrackit.tema18.Tema;
+package ro.fasttrackit.tema18.tema;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
